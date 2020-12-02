@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install aks_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+AksViewTool::Renderer.copyright 'Abdul Kadir Sharaf', 'All rights reserved'
+```
 
 ## Development
 
